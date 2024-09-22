@@ -1,0 +1,2 @@
+Add the pin assignments (.tcl files) and timing constraints (.sdc files), if any. You can use COE3DQ5 or ECE744 sub-folders as a reference.
+

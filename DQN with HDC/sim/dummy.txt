@@ -1,0 +1,2 @@
+Add your Modelsim files (.do). You can use COE3DQ5 or ECE744 sub-folders as a reference.
+

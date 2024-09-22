@@ -1,0 +1,1 @@
+Add your design files (.sv .v. .mif ...). You can use COE3DQ5 or ECE744 sub-folders as a reference.
